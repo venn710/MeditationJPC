@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MeditaionJPC" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <item name="colorPrimary" type="color">@color/deepblue</item>
+    <item name="colorPrimaryVariant" type="color">@color/deepblue</item>
+    <item name="colorOnPrimary" type="color">@color/white</item>
+    <!-- Secondary brand color. -->
+    <item name="colorSecondary" type="color">@color/deepblue</item>
+    <item name="colorSecondaryVariant" type="color">@color/deepblue</item>
+    <item name="colorOnSecondary" type="color">@color/black</item>
+    <!-- Status bar color. -->
+    <item name="statusBarColor" type="color">@color/deepblue</item>
+
+
+    <style name="Theme.MeditaionJPC.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
